@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iejahthefi.dsccommunity.org/sitemap.xml
